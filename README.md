@@ -3,7 +3,7 @@ My name is Dhruv, and I am a Computer Science undergrad 💻
 <!--
 My Interests includes just Python for now 😄
 -->
-- 📫 How to reach me: [E-mail](mailto:gaddameedidhruvreddy@gmail.com)
+- 📫 Reach me: [E-mail](mailto:gaddameedidhruvreddy@gmail.com)
 <!--
 **codrug/codrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
