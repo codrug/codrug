@@ -1,8 +1,8 @@
 ## Hey there 👋 !!!
 My name is Dhruv, and I am a Computer Science undergrad 💻
-<!--
-My Interests includes just Python for now 😄
--->
+
+I am currently exploring projects.
+
 - 📫 Reach me: [E-mail](mailto:gaddameedidhruvreddy@gmail.com)
 <!--
 **codrug/codrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
