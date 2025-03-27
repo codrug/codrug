@@ -1,7 +1,8 @@
 ## Hey there 👋 !!!
-My name is Dhruv, and I am a Computer Science undergrad 💻
 
-I am currently exploring projects.
+- My name is Dhruv, and I am a Computer Science undergrad 💻
+
+- 🌱 I am currently exploring projects.
 
 - 📫 Reach me: [E-mail](mailto:gaddameedidhruvreddy@gmail.com)
 <!--
