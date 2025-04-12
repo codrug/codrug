@@ -2,7 +2,7 @@
 
 - My name is Dhruv, and I am a Computer Science undergrad 💻
 
-- 🌱 I am currently exploring projects.
+- 🌱 I like Neurotech and anything related to the overlapping of artificial and natural thinking.
 
 - 📫 Reach me: [E-mail](mailto:gaddameedidhruvreddy@gmail.com)
 <!--
